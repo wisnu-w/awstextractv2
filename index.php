@@ -87,7 +87,7 @@
                 </div>
             </div>
       </br>
-           <iframe title="w" width="1024" height="760" src="https://app.powerbi.com/view?r=eyJrIjoiZWZlNGVlNjgtOTU1MS00ZTU1LWEyYjgtNjhmYzk5OTU1YzRkIiwidCI6Ijc2MTIxOTIxLTIwNGUtNDE4OC05NDVjLWYwZDA1YmU1NWUwZiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="false"></iframe> 
+           <iframe title="w" width="1024" height="760" src="https://app.powerbi.com/reportEmbed?reportId=a486f8d5-ce63-45ea-bcb5-e2581344b094&autoAuth=true&ctid=76121921-204e-4188-945c-f0d05be55e0f" frameborder="0" allowFullScreen="false"></iframe> 
         </div>
     </form>  
     </div>
